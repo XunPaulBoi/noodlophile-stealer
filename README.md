@@ -1,7 +1,6 @@
 import os
 import re
 import hashlib
-
 # Indicators of compromise (IOCs)
 SUSPICIOUS_FILENAMES = [
     "CapCut.exe",
